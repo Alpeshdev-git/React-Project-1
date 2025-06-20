@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.contai{
+  background-color: rgb(27, 218, 65);
+   color: rgb(6, 50, 50);
+   display: flex;
+   border: 1rem solid black;
+   margin-left: 4cm;
+   margin-right: 5cm;
+}
+
+.area{
+  width: 90%;
+  margin-top: 2%;
+  border: 1mm solid black;
+}
+
+.bg-light-green {
+  background-color: #b0dab0 !important;
+}
